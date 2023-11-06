@@ -1,3 +1,15 @@
-p {
+body{
+    background: #ccc;
+}
+#baner{
+    width: 100%;
+}
+.principal{
+    background: #cccccc;
+padding:30px;
+p{
     text-align: center;
+}
+em strong{
+    color: rgb,(239,38,195);
 }
